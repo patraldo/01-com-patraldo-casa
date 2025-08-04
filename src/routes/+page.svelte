@@ -4,3 +4,6 @@
 
 
 <p><a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+
+
+What happens if I just run npx wrangler deploy without first running npm build?
